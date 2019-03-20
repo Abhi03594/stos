@@ -12,7 +12,6 @@ icon: https://storageos.com/wp-content/themes/storageOS/images/logo.svg
 sources:
 - https://github.com/storageos
 maintainers:
-- name: croomes
-  email: simon.croome@storageos.com
-- name: darkowlzz
-  email: sunny.gogoi@storageos.com
+- name: abhishek 
+  email: abhishek.hp@yobitel.com
+
