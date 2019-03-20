@@ -10,7 +10,7 @@ keywords:
 home: https://storageos.com
 icon: https://storageos.com/wp-content/themes/storageOS/images/logo.svg
 sources:
-- https://github.com/storageos
+- https://github.com/Abhi03594/stos/tree/master/stable/storageos
 maintainers:
 - name: abhishek 
   email: abhishek.hp@yobitel.com
