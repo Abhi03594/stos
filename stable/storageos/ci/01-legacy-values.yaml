@@ -1,6 +1,6 @@
 ---
 csi:
-  enable: false
+  enable: true
 
 ingress:
   enabled: true
