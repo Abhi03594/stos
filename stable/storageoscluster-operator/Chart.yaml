@@ -11,6 +11,4 @@ home: https://storageos.com
 icon: https://storageos.com/wp-content/themes/storageOS/images/logo.svg
 sources:
 - https://github.com/storageos
-maintainers:
-- name: darkowlzz
-  email: sunny.gogoi@storageos.com
+
